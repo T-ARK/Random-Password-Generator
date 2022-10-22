@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-![App Screenshot](password.png)
+![App Screenshot](Password.png)
 
 
 
